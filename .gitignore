@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+cookies.txt
+downloads/
+__pycache__/
+*.pyc
+.venv/
+venv/
